@@ -50,4 +50,10 @@ I'm not good at informatic.
 
 15. I have no ........!
 
+Bài học có 5 phần:
+1.
+2.
+3. 
+4.
+5.
 
