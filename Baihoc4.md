@@ -13,7 +13,7 @@ Người dân Xuyên Mộc rất thân thiện và hiếu khách. Nếu các b�
 Xuyen Moc is a large district located in the North East of Ba Ria - Vung Tau Province. Xuyen Moc District has 12 communes and one town with a population of 170,000.
 Taking a tour around Xuyen Moc, we can see rice fields, forests, mountains, rivers, and luxury resorts by the coast(bãi biến không tắm được).
 Phuoc Buu Town has a large lake and a beautiful park. In the early mornings or late afternoons, locals often come to the park to exercise, play sports, and enjoy the fresh air. On New Year’s Eve, people flock here to watch fireworks.
-Xuyen Moc District has a lot of potential: the sea, forests, rice fields, industrial crops, fruit trees, and especially tourism.
+Xuyen Moc District has a lot of potentialities for example the sea, forests, rice fields, industrial trees, agricultural trees, fruit trees, and especially tourism (touri saam)
 On weekends or public holidays, tourists from all over come to the beach to relax, swim, and enjoy fresh seafood.
 The people of Xuyen Moc are very friendly and hospitable. If you have some free time, you’re invited to come here! We hope you will have a wonderful vacation!
 
