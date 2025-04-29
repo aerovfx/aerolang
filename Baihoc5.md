@@ -24,3 +24,13 @@ No, there's not.
 administrative unit: đơn vị hành chánh
 
 
+I came there once a year for watching it.
+once
+twice
+3 times
+4 times
+
+there are many special thing: nice clean beaches, casino,...
+
+các điều cấm kỵ: taboo (tuổi, gia đình).
+
