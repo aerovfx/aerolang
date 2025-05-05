@@ -54,3 +54,24 @@ forestry
 fishery
 agricuture
 
+Chủ đề: Tense – Simple Future (April 2025)
+
+Cấu trúc câu hỏi với Wh-questions:
+
+
+ 1. Wh + do/does + S + V (nguyên mẫu) …?
+ 2. Wh + will + S + V …?
+
+Các động từ khi dùng với “will”:
+
+ • Will
+ • Can
+ • Should
+ • Could
+ • Shall
+ • May
+ • Must
+
+Câu mẫu 
+ • “When will you go to S.G?”
+ • “Who will go to S.G on April 2nd?”
