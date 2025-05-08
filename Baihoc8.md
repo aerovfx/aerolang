@@ -98,5 +98,8 @@ Bạn điện thoại cho ai?
 S + V + O
 Who do you phone?
 
+Flocks of swalows are gliding (flying) to the south in Spring.
+
+
 
 
