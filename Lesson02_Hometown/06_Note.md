@@ -34,3 +34,34 @@ there are many special thing: nice clean beaches, casino,...
 
 các điều cấm kỵ: taboo (tuổi, gia đình).
 
+
+Từ diễn tả mục đích
+to 
+for
+nghĩa là để
+
+to + V (bare verb động từ nguyên mẫu)
+for + 
+
+Động từ khiếm khuyết can/with/mush + V
+
+
+highschool: trung học
+secondary school: trung học cơ sở
+primary schools: tiểu học
+kindergarten: mẫu giáo.
+
+sorry lên giọng cuối câu.
+
+lake layk
+take thayk
+
+park /pɑːk/
+dark 
+ark, Park.
+ar đọc là ɑː
+
+local (A) và (N)
+local people
+locals
+
