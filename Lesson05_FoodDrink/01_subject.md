@@ -1,3 +1,32 @@
+```mermaid
+mindmap
+  root((FOOD AND DRINKS))
+    Meal Time
+      Breakfast
+        Poor
+          - eat at home
+        Rich
+          - eat at cafes
+          - brunch (10 AM)
+      Lunch
+        - light meal
+        - cafeteria (workers)
+      Dinner (6–7 PM)
+        - family time
+        - skip (young women)
+        - malnutrition (poor people)
+    Eating Habits
+      - Healthy diet
+      - Vegetables
+      - Fruits
+      - Fish
+      - Less meat & fatty food
+    Drinks
+      - Water (≥ 2 liters)
+      - Avoid sugary sodas
+```
+
+
 FOOD AND DRINK
 
 Luyện tập hoàn chỉnh cho bài hội thoại “Talking About Food and Eating Habits in Vietnam” — rất phù hợp để sử dụng trong lớp học hoặc tự luyện tập. Gồm có:
