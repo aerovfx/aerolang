@@ -4,28 +4,32 @@ mindmap
     Meal Time
       Breakfast
         Poor
-          - eat at home
+          eat at home
         Rich
-          - eat at cafes
-          - brunch (10 AM)
+          eat at cafes
+          brunch
       Lunch
-        - light meal
-        - cafeteria (workers)
-      Dinner (6–7 PM)
-        - family time
-        - skip (young women)
-        - malnutrition (poor people)
+        light meal
+        cafeteria
+      Dinner
+        Family Time
+        Skip Dinner
+          Young women
+        Malnutrition
+          Poor people
     Eating Habits
-      - Healthy diet
-      - Vegetables
-      - Fruits
-      - Fish
-      - Less meat & fatty food
+      Healthy Diet
+        Vegetables
+        Fruits
+        Fish
+        Less meat
+        Less fatty food
     Drinks
-      - Water (≥ 2 liters)
-      - Avoid sugary sodas
+      Water
+        ≥ 2 liters
+      Avoid
+        Sugary Sodas
 ```
-
 
 FOOD AND DRINK
 
