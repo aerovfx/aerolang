@@ -1,37 +1,49 @@
-Conversation: Talking About Food and Eating Habits in Vietnam
+🍜 Conversation: "Breakfast? Or… Brunch?"
+Lan: Hey Nam, what time did you have breakfast today?
 
-A: Hey, how many meals do Vietnamese people usually eat in a day? (WH-question)
-B: We normally eat three — breakfast, lunch, and dinner.
+Nam: Uh… around 10 AM. Actually, I think it was brunch.
 
-A: Do people always eat breakfast early in the morning? (Yes/No question)
-B: Not always. People like actors, singers, or night workers usually eat breakfast late, around 10 AM.
+Lan: Brunch? Wow, you’re turning Western now?
 
-A: Oh, so that’s more like brunch, isn’t it? (Tag question)
-B: Exactly! It’s a combination of a late breakfast and an early lunch. And some of them even eat again at 11 PM — kind of a late-night snack.
+Nam: No no, it’s just… I went to bed at 2 AM after watching K-dramas. Blame Netflix!
 
-A: That sounds different from Western habits. What’s the Vietnamese diet like? (WH-question)
-B: It’s pretty healthy. We don’t eat as much fat as Europeans or Americans. We eat a lot of veggies, fruits, and fish — and not much meat.
+Lan: Haha! You sound like a pop singer. They always eat late. Night owls!
 
-A: Who usually eats breakfast at home — rich or poor people? (WH-question with comparison)
-B: Poorer families usually eat at home. Richer people tend to go out for breakfast at restaurants or cafes.
+Nam: Exactly! I'm practically a Vietnamese BTS.
 
-A: Doctors say breakfast is the most important meal of the day, right? (Tag question)
-B: That’s right! It gives us the energy we need to start the day.
+Lan: Keep dreaming! So, what did you eat?
 
-A: Where do workers usually eat lunch? (WH-question)
-B: These days, many people eat a light lunch. Workers and government employees often eat at canteens or restaurants because they don’t have time to go home.
+Nam: Just some bánh mì with eggs and a bit of fish sauce. You?
 
-A: Is dinner also important in Vietnam? (Yes/No question)
-B: Yes, definitely! Dinner is when the whole family gathers. It’s usually around 6 or 7 PM.
+Lan: I had phở. Classic, light, and healthy. You know Vietnamese people eat lots of veggies and fish — not fatty burgers like in the West.
 
-A: But I’ve heard some young women skip dinner. Why is that? (WH-question)
-B: Because they’re afraid of gaining weight. They say, “It’s easier to get fat than to stay slim.”
+Nam: True. Our diet is pretty healthy. But last night, I had snacks at 11 PM. Is that bad?
 
-A: That’s true. But not everyone can choose, can they? (Tag question)
-B: Sadly, no. Some poor people don’t even have enough to eat. They suffer from malnutrition.
+Lan: Depends. If you're a factory worker, maybe it's okay. If you're a K-drama addict, probably not.
 
-A: How much water should we drink every day? (WH-question)
-B: At least 2 liters. And we should avoid sugary drinks — they’re bad for our health.
+Nam: Haha! So mean! But hey, dinner was at 6, family time. Dad made cá kho tộ. Heaven!
 
-A: Yeah, natural juices and water are better than soda, aren’t they? (Tag question with comparison)
-B: For sure! They’re much healthier.
+Lan: My mom says young women should skip dinner to stay slim. But skipping meals isn’t healthy either.
+
+Nam: Yeah, better to eat smart than eat less. Also — drink water. At least two liters a day!
+
+Lan: And no sugary sodas!
+
+Nam: Oops…
+
+Lan: What?
+
+Nam: Looks guilty …I had a Coke with my brunch.
+
+Lan: You need a food intervention!
+
+🧠 Vocab & Grammar Highlights:
+Brunch = late breakfast + early lunch
+
+Night owls = people who stay up late
+
+Our diet is pretty healthy (descriptive sentence)
+
+Should/Shouldn't for giving advice
+
+Comparative structure: “better to eat smart than eat less”
