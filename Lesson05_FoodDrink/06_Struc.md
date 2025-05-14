@@ -1,4 +1,4 @@
-Dưới đây là **phân tích cấu trúc câu (sentence structure analysis)** của đoạn văn “**Food and Drinks**” – mình chia nhỏ từng câu, giải thích loại câu, thành phần chính và điểm ngữ pháp quan trọng (gồm cả lỗi nếu có).
+**phân tích cấu trúc câu (sentence structure analysis)** của đoạn văn “**Food and Drinks**” 
 
 ---
 
