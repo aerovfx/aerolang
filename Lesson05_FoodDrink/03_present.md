@@ -3,9 +3,9 @@ Food and Drinks
 Vietnamese people usually have three meals a day — breakfast, lunch, and dinner.
 Actors, Actress, singers and people who work at night often eat breakfast pretty late, around 10 AM. It is called a brunch — a mix between a late breakfast and an early lunch. They often to eat late night snacks, sometimes around 11 PM.
 
-Vietnamese people are different from Europeans and Americans. We don’t eat a lot of fatty foods. Our diet is pretty healthy. We eat a lot of vegetables, fruits, and fish — and very little meat.
+Vietnamese people are different from Europeans and Americans. We don’t eat a lot of fatty foods. Our diet is pretty healthy. We eat a lot of vegetables, fruits, fish and very little meat.
 
-Poor families usually have breakfast at home, while wealthier people often eat out at cafes or restaurants.
+Poor families usually have breakfast at home while wealthier people often eat out at cafes or restaurants.
 Doctors say that breakfast is really important — it’s the main source of energy for the whole day.
 
 These days, Vietnamese people tend to have a light lunch.
