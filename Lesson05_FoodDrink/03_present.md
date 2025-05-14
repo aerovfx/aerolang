@@ -8,10 +8,10 @@ Vietnamese people are different from Europeans and Americans. We don’t eat a l
 Poor families usually have breakfast at home while wealthier people often eat out at cafes or restaurants.
 Doctors say that breakfast is really important — it’s the main source of energy for the whole day.
 
-These days, Vietnamese people tend to have a light lunch.
+These days, Vietnamese people often have a light lunch.
 Factory workers and government employees usually eat in the cafeteria or at restaurants because they don’t have time to go home for lunch.
 
-Vietnamese families usually eat dinner around 6 or 7 PM. It’s considered family time — a chance for everyone to be together.
+Vietnamese families usually have dinner around 6 or 7 PM. It’s considered family time — a chance for everyone to be together.
 
 Young women often skip dinner at 7 or 8 PM because they’re afraid of gaining weight.
 They say, “It’s easier to gain weight than to stay slim.”
