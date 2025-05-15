@@ -1,4 +1,4 @@
-Dưới đây là danh sách các loại từ (parts of speech) trong tiếng Anh phổ biến nhất, cùng với công dụng và ví dụ minh họa:
+Các loại từ (parts of speech) trong tiếng Anh phổ biến nhất, cùng với công dụng và ví dụ minh họa:
 
 ⸻
 
@@ -73,4 +73,3 @@ Dưới đây là danh sách các loại từ (parts of speech) trong tiếng An
 	•	Oops! I dropped it.
 
 ⸻
-
