@@ -122,4 +122,15 @@ Beef Stir-Fry with Vegetables
 	•	Ingredients: lean beef strips, bell peppers, soy sauce, ginger
 	•	Serve with: jasmine rice
 
-⸻
+⸻--------------------
+Tue 20 May
+
+ood and Drinks Expanded
+
+As we all know, what we eat and drink is vitally important to our health. It can either lengthen or shorten our lives. That’s why we need a healthy diet to maintain our well‑being and happiness. When we’re healthy, we can enjoy everything life has to offer; without our health, we have nothing.
+
+Everyone understands this, but putting it into practice is no easy feat. Wealthy people or those with high social status often indulge without restraint. They feast on gourmet delicacies and sip expensive wines. Money is rarely a concern for them because they have plenty of it. Meanwhile, the poor don’t even have enough to eat. They suffer from malnutrition and can’t dream of fine dining or pricey spirits. If they splurged on a single bottle of whisky, they’d have to skip meals for a month. If they spent their money on one kilogram of bird’s-nest soup, they’d go hungry for a year. Although they, too, would like to eat healthily, that goal is completely out of reach.
+
+Nowadays, food and drinks aren’t always safe, so we need to be cautious about what we consume. We shouldn’t eat too much red meat, as it’s not good for our cardiovascular system. Instead, we should eat more fish, fruits, and vegetables—and drink plenty of water, at least two liters a day.
+
+Life is too short. Let’s cherish our health. We won’t be taken down by an enemy—we’ll be ruined by our own choices.
