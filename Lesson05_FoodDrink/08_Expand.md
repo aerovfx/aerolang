@@ -125,7 +125,7 @@ Beef Stir-Fry with Vegetables
 ⸻--------------------
 Tue 20 May
 
-ood and Drinks Expanded
+Food and Drinksgit Expanded
 
 As we all know, what we eat and drink is vitally important to our health. It can either lengthen or shorten our lives. That’s why we need a healthy diet to maintain our well‑being and happiness. When we’re healthy, we can enjoy everything life has to offer; without our health, we have nothing.
 
