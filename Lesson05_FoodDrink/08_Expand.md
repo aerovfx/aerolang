@@ -134,3 +134,5 @@ Everyone understands this, but putting it into practice is no easy feat. Wealthy
 Nowadays, food and drinks aren’t always safe, so we need to be cautious about what we consume. We shouldn’t eat too much red meat, as it’s not good for our cardiovascular system. Instead, we should eat more fish, fruits, and vegetables—and drink plenty of water, at least two liters a day.
 
 Life is too short. Let’s cherish our health. We won’t be taken down by an enemy—we’ll be ruined by our own choices.
+
+

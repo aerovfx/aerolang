@@ -29,6 +29,13 @@ mindmap
         ≥ 2 liters
       Avoid
         Sugary Sodas
+    Tastes
+      sweet (great/awful/)
+      hot = spicy = chilly
+      bitter
+      sour
+      salty
+
 ```
 
 FOOD AND DRINK
