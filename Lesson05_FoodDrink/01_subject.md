@@ -34,7 +34,8 @@ mindmap
       hot = spicy = chilly
       bitter
       sour
-      salty
+      salty(good)
+      
 
 ```
 
