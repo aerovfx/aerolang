@@ -30,11 +30,11 @@ mindmap
       Avoid
         Sugary Sodas
     Tastes
-      sweet (great, awful, delicious, too sweet, sickly sweet)
-      hot = spicy = chilly (amazing, intense, overpowering, too hot, flavorful)
-      bitter (strong, unpleasant, harsh, earthy, bold, lingering)
-      sour (sharp, tangy, mouth-puckering, fresh, unpleasant)
-      salty(good, bad, too salty, just right, rich, overpowering)
+      sweet: great, awful, delicious, too sweet, sickly sweet
+      hot = spicy = chilly: amazing, intense, overpowering, too hot, flavorful
+      bitter: strong, unpleasant, harsh, earthy, bold, lingering
+      sour: sharp, tangy, mouth-puckering, fresh, unpleasant
+      salty: good, bad, too salty, just right, rich, overpowering
       
 
 ```
