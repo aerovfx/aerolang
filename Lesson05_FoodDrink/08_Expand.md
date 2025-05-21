@@ -133,6 +133,26 @@ Everyone understands this, but putting it into practice is no easy feat. Wealthy
 
 Nowadays, food and drinks aren’t always safe, so we need to be cautious about what we consume. We shouldn’t eat too much red meat, as it’s not good for our cardiovascular system. Instead, we should eat more fish, fruits, and vegetables—and drink plenty of water, at least two liters a day.
 
-Life is too short. Let’s cherish our health. We won’t be taken down by an enemy—we’ll be ruined by our own choices.
+Life is too short. Let’s cherish our health. We won’t be taken down by our enemies—we’ll be ruined by our own choices.
+
+
+that's not easy
+
+we have to be careful in/from eating and drinking.
+
+die (V)
+dead (A)
+death (N)
+Death (N)
+deadly (adv)
+
+He drove his motorbike deadly.
+
+in order to + V
+nghĩa là để
+
+by: sủ dụng trong thể bị động (bi tác động bởi con người ngược lại với thiên nhiên ta dùng with thay cho by)
+the hill is covered with full of fog.
+the castle is covered with moss.
 
 
