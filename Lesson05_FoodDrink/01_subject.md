@@ -36,7 +36,6 @@ mindmap
       sour: sharp, tangy, mouth-puckering, fresh, unpleasant
       salty: good, bad, too salty, just right, rich, overpowering
       
-
 ```
 
 FOOD AND DRINK
