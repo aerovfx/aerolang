@@ -2,71 +2,80 @@
 mindmap
   root((TET HOLIDAY VOCABULARY))
     Food
-      Banh Chung
-        sticky rice cake
+      Square Sticky Rice Cake (Banh Chung)
+        sticky rice
         square-shaped
         pork
         mung beans
-      Banh Tet
-        cylindrical
+        dong leaves
+      Cylindrical Sticky Rice Cake (Banh Tet)
+        cylindrical shape
+        sticky rice
+        mung beans
+        banana (optional)
         southern Vietnam
       Pickled Vegetables
-        dua hanh
-        pickled leeks
-      Gio Cha
-        Vietnamese sausage
-        pork roll
-      Candied Fruits
-        mut Tet
-        coconut
-        ginger
-        kumquat
+        pickled leeks (dua hanh)
+        served with savory dishes
+      Vietnamese Pork Sausage (Gio Cha)
+        lean pork roll (gio lua)
+        fried pork roll (cha chien)
+      Candied Fruits (Mut Tet)
+        candied coconut
+        candied ginger
+        candied kumquat
+        candied winter melon
     Activities
       House Cleaning
-        sweep away bad luck
-        before New Year's Eve
-      Worship
+        removing bad luck
+        before Lunar New Year's Eve
+      Ancestor Worship
         ancestral altar
-        incense
-        offerings
-      Visiting
-        relatives
-        neighbors
-        friends
-      Giving "Li xi"
-        lucky money
-        red envelope
-        children
+        burning incense
+        food and flower offerings
+      Visiting Others
+        visiting relatives
+        visiting neighbors
+        visiting friends
+      Giving Lucky Money
+        red envelopes
+        money for children
+        wishing good fortune
     Symbols
       Peach Blossom
-        northern Vietnam
+        symbol of Northern Vietnam
+        springtime flower
       Apricot Blossom
-        southern Vietnam
+        symbol of Southern Vietnam
+        yellow flower
       Kumquat Tree
-        prosperity
-        decoration
+        symbolizes prosperity
+        Tet decoration
       Red Decorations
-        good fortune
-        happiness
+        symbol of good luck
+        happiness and fortune
       Firecrackers
-        banned now
-        loud noise to scare evil
+        traditionally used
+        loud sound to ward off evil
+        now banned
     Customs
-      First Visitor
-        xong dat
-        good luck
-      New Clothes
-        red color
-        traditional attire
+      First Visitor of the Year
+        “xong dat” tradition
+        bring good fortune
+      Wearing New Clothes
+        red color for luck
+        traditional Vietnamese attire
       Tet Greetings
-        "Chuc Mung Nam Moi"
-        "An Khang Thinh Vuong"
+        "Happy New Year" (Chuc Mung Nam Moi)
+        "Wishing Prosperity" (An Khang Thinh Vuong)
     Drinks
       Tea
         green tea
         jasmine tea
       Rice Wine
-        traditional alcohol
+        traditional fermented alcohol
+        used in celebrations
       Soft Drinks
-        popular with kids
+        sweet beverages
+        popular with children
 ```
