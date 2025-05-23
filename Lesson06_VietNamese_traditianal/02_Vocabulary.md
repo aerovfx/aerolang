@@ -19,3 +19,29 @@ A list of traditional Vietnamese Tet (Lunar New Year) vocabulary with English tr
 | Hoa mai                  | Apricot blossom                       | /ˈeɪprɪkɒt ˈblɒsəm/           | Symbolic flower in Southern Vietnam                              |
 | Cây quất                 | Kumquat tree                          | /ˈkʌmkwɒt triː/               | Tet decoration, symbolizes prosperity                            |
 | Pháo                     | Firecrackers                          | /ˈfaɪəkrækəz/                 | Used to scare away evil spirits (now banned)                     |
+
+
+# 📚 Tet Holiday – Vocabulary
+
+| Vietnamese Term          | English Term                     | Pronunciation (IPA)         | Notes / Meaning                                                |
+|--------------------------|----------------------------------|-----------------------------|-----------------------------------------------------------------|
+| Tết                      | Tet Holiday                      | /tet ˈhɒlədeɪ/              | Vietnamese Lunar New Year                                      |
+| Tết Âm lịch              | Lunar New Year                   | /ˈluːnə(r) njuː jɪə(r)/     | Based on the lunar calendar                                    |
+| Năm mới dương lịch       | Gregorian New Year               | /ɡrɪˈɡɔːriən njuː jɪə(r)/   | Western (solar) calendar New Year                              |
+| Dọn dẹp                  | clean / tidy up                  | /kliːn/ /ˈtaɪdi ʌp/         | To make clean and orderly                                      |
+| Trang trí                | decorate                         | /ˈdekəreɪt/                 | To make something more attractive                             |
+| Mua sắm                  | shop / go shopping               | /ʃɒp/ /ɡəʊ ˈʃɒpɪŋ/          | To buy things from stores                                      |
+| Hoa mai                  | apricot blossom                  | /ˈeɪprɪkɒt ˈblɒsəm/         | Symbolic flower in the South                                   |
+| Hoa đào                  | peach blossom                    | /piːtʃ ˈblɒsəm/             | Symbolic flower in the North                                   |
+| Cây nêu / cây cảnh       | decorative tree                  | /ˈdekərətɪv triː/           | Used during Tet to bring luck                                  |
+| Giao thừa                | New Year's Eve                   | /njuː jɪəz iːv/             | The evening before the New Year                                |
+| Bánh chưng               | square sticky rice cake          | /skweə ˈstɪki raɪs keɪk/    | Traditional Tet food (Northern Vietnam)                        |
+| Tiền lì xì               | lucky money                      | /ˈlʌki ˈmʌni/               | Money given to children in red envelopes                       |
+| Phong bao đỏ             | red envelope                     | /red ˈenvələʊp/             | Decorative envelope for lucky money                            |
+| Người thân               | relatives                        | /ˈrelətɪvz/                 | Family members, extended family                                |
+| Hàng xóm                 | neighbors                        | /ˈneɪbəz/                   | People living nearby                                           |
+| Truyền thống gia đình    | family tradition                 | /ˈfæməli trəˈdɪʃn/          | Customs passed through generations                             |
+| Phong tục Việt Nam       | Vietnamese customs               | /ˌvjetnəˈmiːz ˈkʌstəmz/     | Traditional practices of Vietnamese people                     |
+| Kể chuyện                | tell stories                     | /tel ˈstɔːriz/              | Talk about past or experiences                                 |
+| Du lịch                  | travel                           | /ˈtrævl/                    | Visit places for leisure or culture                            |
+| Khu phố / xóm            | neighborhood                     | /ˈneɪbəhʊd/                 | Local community or residential area                            |
