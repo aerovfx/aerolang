@@ -2,25 +2,25 @@
 mindmap
   root((TET HOLIDAY VOCABULARY))
     Food
-      Square Sticky Rice Cake (Banh Chung)
+      Square Sticky Rice Cake 
         sticky rice
         square-shaped
         pork
         mung beans
         dong leaves
-      Cylindrical Sticky Rice Cake (Banh Tet)
+      Cylindrical Sticky Rice Cake 
         cylindrical shape
         sticky rice
         mung beans
         banana (optional)
         southern Vietnam
       Pickled Vegetables
-        pickled leeks (dua hanh)
+        pickled leeks 
         served with savory dishes
-      Vietnamese Pork Sausage (Gio Cha)
-        lean pork roll (gio lua)
-        fried pork roll (cha chien)
-      Candied Fruits (Mut Tet)
+      Vietnamese Pork Sausage 
+        lean pork roll 
+        fried pork roll 
+      Candied Fruits 
         candied coconut
         candied ginger
         candied kumquat
@@ -66,8 +66,8 @@ mindmap
         red color for luck
         traditional Vietnamese attire
       Tet Greetings
-        "Happy New Year" (Chuc Mung Nam Moi)
-        "Wishing Prosperity" (An Khang Thinh Vuong)
+        "Happy New Year" 
+        "Wishing Prosperity" 
     Drinks
       Tea
         green tea
