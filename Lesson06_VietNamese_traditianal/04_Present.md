@@ -6,7 +6,7 @@ Regardless of religion, age, or financial status—whether old or young, rich or
 
 The **symbolic flower in Southern Vietnam** is the **apricot blossom**, while in **Northern Vietnam** it is the **peach blossom**. Therefore, **southern Vietnamese** buy apricot blossoms, and **northern Vietnamese** buy peach blossoms to decorate their homes for Tet.
 
-On **New Year's Eve**, no one is asleep. Family members gather around the fire to watch the pot of **square sticky rice cakes (Banh Chung)** cooking and share stories of the past and present.
+On **New Year's Eve**, no one is asleep. Family members gather around the fire to watch the pot of **square sticky rice cakes** cooking and share stories of the past and present.
 
 On the **first day of the Lunar New Year**, adults visit relatives and friends to offer New Year wishes. Children wear new clothes and receive **lucky money** in red envelopes. Rich people often travel to famous places, while poorer families celebrate Tet in their own neighborhoods. However, no one feels sad or disappointed.
 
