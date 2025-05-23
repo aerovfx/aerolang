@@ -1,3 +1,4 @@
+```mermaid
 mindmap
   root((TET HOLIDAY VOCABULARY))
     Food
@@ -68,3 +69,4 @@ mindmap
         traditional alcohol
       Soft Drinks
         popular with kids
+```
