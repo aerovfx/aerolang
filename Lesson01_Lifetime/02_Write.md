@@ -1,6 +1,4 @@
 
-✅ Bản chỉnh sửa đề xuất:
-
 Lesson 1: Everyday Life (American English Translation)
 I usually wake up at 5 a.m. I exercise for about 30 minutes. After that, I take a shower and have breakfast. I leave for work at 7 a.m.
 As my workplace is quite far from home, I usually have lunch at a nearby restaurant. I take a short nap at the office during lunchtime. My workday ends at 5 p.m.
