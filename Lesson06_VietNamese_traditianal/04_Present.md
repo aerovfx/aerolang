@@ -4,7 +4,7 @@ Every year, we have many holidays, but the most important one for Vietnamese peo
 
 Regardless of religion, age, or financial status—whether old or young, rich or poor—**everyone enjoys Tet Holiday**. The day before Tet, everyone is busy cleaning their house and garden, and decorating their home. Mothers are often busy shopping for food, cakes, fruits, and more. Children help their parents tidy up the house and wash dishes. Everyone has their own tasks.
 
-The **symbolic flower in Southern Vietnam** is the **apricot blossom**, while in **Northern Vietnam** it is the **peach blossom**. Therefore, **southern Vietnamese** buy apricot blossoms, and **northern Vietnamese** buy peach blossoms to decorate their homes for Tet.
+The flower that symbolizes Tet in southern Vietnam is the apricot blossom, while in **Northern Vietnam** it is the **peach blossom**. Therefore, **southern Vietnamese** buy apricot blossoms, and **northern Vietnamese** buy peach blossoms to decorate their homes for Tet.
 
 On **New Year's Eve**, no one is asleep. Family members gather around the fire to watch the pot of **square sticky rice cakes** cooking and share stories of the past and present.
 

@@ -4,7 +4,7 @@ Mỗi năm, chúng ta có rất nhiều kỳ nghỉ, nhưng **kỳ nghỉ quan t
 
 Bất kể tôn giáo, già hay trẻ, giàu hay nghèo, **mọi người đều yêu thích Tết**. Vào ngày cuối cùng trước Tết, ai cũng **rất bận rộn dọn dẹp nhà cửa, làm vườn và trang trí nhà cửa**. Các bà mẹ bận rộn mua sắm thực phẩm, bánh kẹo, hoa quả,... Trẻ em thì giúp bố mẹ lau dọn nhà, rửa bát đũa. **Mỗi người đều có một việc riêng để làm**.
 
-**Loài hoa biểu tượng ở miền Nam Việt Nam là hoa mai**, còn ở **miền Bắc là hoa đào**. Vì vậy, **người miền Nam thường mua hoa mai**, còn **người miền Bắc thì mua hoa đào** để trang trí cho ngày Tết.
+**Loài hoa biểu tượng của Tết ở miền Nam Việt Nam là hoa mai**, còn ở **miền Bắc là hoa đào**. Vì vậy, **người miền Nam thường mua hoa mai**, còn **người miền Bắc thì mua hoa đào** để trang trí cho ngày Tết.
 
 **Vào đêm Giao Thừa**, không ai ngủ cả. **Các thành viên trong gia đình quây quần bên bếp lửa**, canh nồi **bánh chưng** và **kể cho nhau nghe những câu chuyện xưa và nay**.
 
