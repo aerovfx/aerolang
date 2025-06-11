@@ -1,3 +1,4 @@
+```mermaid
 mindmap
   root((Travel in Vietnam))
 
@@ -43,3 +44,4 @@ mindmap
     Social context
       Poor people can't afford air travel
       Infrastructure needs improvement
+```
