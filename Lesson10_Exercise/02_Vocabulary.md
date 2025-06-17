@@ -42,6 +42,8 @@ Farmer
 Blacksmith
 Janitor
 Laborer
+Coulie
+plough
 Bricklayer
 Construction worker
 Student
@@ -54,6 +56,9 @@ Light sport
 Dancing
 Yoga
 Aerobic exercise
+Callisthenics
+Symnastique
+Symanastics
 Muscles
 Become obese
 Gain weight
@@ -73,3 +78,15 @@ Prolong life
 Cemetery
 Choice
 Quote
+climbing
+tomb
+2 tombed pine hill
+so on: van van
+ecetera: van van
+harbor
+worksite
+hangar
+farmer
+
+
+
