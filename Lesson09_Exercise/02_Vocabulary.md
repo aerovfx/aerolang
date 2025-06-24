@@ -88,5 +88,81 @@ worksite
 hangar
 farmer
 
+Gymnastics
+Callisthenics
+Yoga
+disable people/ones: nguoi khuyet tat.
+intergrate student/merge student: 
+
+merge nationality: nhap tinh
+
+the rich/the poor.
+
+✅ Câu 1 (Sửa đúng):
+
+❌ Sai:
+
+Why are poor people lazing take exercise?
+
+✅ Đúng:
+
+Why are poor people lazy to take exercise?
+→ Nhưng: cách nói tự nhiên hơn là:
+Why don’t poor people like to take exercise?
+Why are poor people less likely to take exercise?
+
+⸻
+
+✅ Câu 2 (Sửa đúng):
+
+❌ Sai:
+
+Why do rich people like take exercise?
+
+✅ Đúng:
+
+Why do rich people like to take exercise?
+Hoặc:
+Why do rich people enjoy exercising?
+
+⸻
+
+📌 Giải thích ngữ pháp:
+
+Cấu trúc sai	Vấn đề	Cấu trúc đúng
+like take	Sai vì sau “like” phải là to V hoặc V-ing	like to take / like taking
+lazing take	“lazing” không đi với động từ khác như “take”	dùng lazy to take, hoặc nói lại khác đi
 
 
+⸻
+
+📚 Gợi ý cách nói tự nhiên:
+
+Câu gốc ý tưởng	Câu nói tự nhiên hơn	Nghĩa
+Why are poor people lazy to take exercise?	Why do poor people exercise less often?	Tại sao người nghèo lại ít tập thể dục hơn?
+Why do rich people like take exercise?	Why do rich people like to exercise?	Tại sao người giàu lại thích tập thể dục?
+
+
+⸻
+
+✨ Một chút lý do (nếu bạn muốn thêm nội dung thảo luận):
+	•	Người nghèo có thể ít tập thể dục vì:
+	•	Họ bận rộn kiếm sống, không có thời gian.
+	•	Không có điều kiện để đến phòng tập hoặc chơi thể thao.
+	•	Người giàu thường thích tập thể dục vì:
+	•	Họ có thời gian rảnh và điều kiện.
+	•	Họ coi trọng sức khỏe và thường có huấn luyện viên cá nhân.
+
+rebuild/refresh their labor power.
+
+
+herb doctor
+herbal doctor
+
+stocking/stock
+tern
+rock/rockery
+
+why shoud not we eat any things before we taking exercise?
+
+Why did you take exercise but now?
