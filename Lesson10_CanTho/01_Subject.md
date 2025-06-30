@@ -43,16 +43,45 @@ mindmap
         Check out
         Trip
         Capital
+        Region
+        Rent
+        Continue
       Food
-        Coconut candy
-        Fermented fish paste
+        Thirsty
+        Hungry
+        Serve
+        Fruits
+        Delicious
+        Duku
+        Durian
+        Mangosteen
+        Longan
+        Catfish
       River life
         Sampan
         Stilt house
         Net fishing
         Ferry crossing
+        Floating market
+        Boat
+        Row (a boat)
       Market
         Vendor
         Bargain
         Discount
+        Top-tier goods
+        Cheap stuff
+        Unique market
+      Health
+        Leg
+        Stomach
+        Hurt
+        Feel better
+        Ache
+      Money
+        Cash
+        Gold
+        Lend
+        Sell
+        Out of money
 ```
