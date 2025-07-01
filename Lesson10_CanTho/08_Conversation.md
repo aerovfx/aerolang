@@ -1,12 +1,10 @@
 
-# 🎭 Situational Dialogue: A Fun Day in Can Tho
+# Situational Dialogue: A Fun Day in Can Tho
 
 **Characters:**
 - **Tour Guide:** Mr. Minh
 - **Tourist 1:** Linda
 - **Tourist 2:** Tom
-
----
 
 **Mr. Minh:**  
 Good morning, everyone! Did you all sleep well last night?
@@ -34,7 +32,7 @@ Do we pay in cash or card?
 **Mr. Minh:**  
 Cash only, my friend.  
 If you’re out of cash, just sell your gold.  
-And if you don’t have gold—I’ll lend you some money… *with interest, of course!* 😉 
+And if you don’t have gold—I’ll lend you some money… *with interest, of course!* 
 
 **Linda:**  
 Haha! Very helpful, Mr. Minh.
@@ -44,7 +42,7 @@ This market is one of a kind. You’ll see everything from high-end electronics 
 And if you’re hungry or thirsty, the vendors will row right up to your boat. *Service on water!*
 
 **Tom:**  
-Can I also “sleep on the boat”? 😏
+Can I also “sleep on the boat”? 
 
 **Mr. Minh:**  
 Ahhh… That depends. If you spot a lady in a traditional **áo bà ba**, be careful—she might serve you from A to Z! *(everyone laughs)*
@@ -70,8 +68,6 @@ That sounds terrifying and delicious at the same time.
 **Mr. Minh:**  
 That’s the spirit! Now hop on the boat, everyone — let’s float into adventure!
 
----
-
 ## 🗣️ Practice Suggestions
 
 - You can play the role of Mr. Minh and invite friends to be the tourists.
@@ -79,4 +75,3 @@ That’s the spirit! Now hop on the boat, everyone — let’s float into advent
     - **Floating Market** `/ˈfləʊtɪŋ ˈmɑːkɪt/`
     - **Serve you from A to Z** `/sɜːv juː frəm eɪ tuː ziː/`
     - **Throw up your whole family tree** `/θrəʊ ʌp jɔː ˈfæmɪli triː/`
-
