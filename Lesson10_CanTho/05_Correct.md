@@ -16,7 +16,7 @@ If you’re thirsty or hungry, vendors will row straight to you.
 And if any of you gentlemen are thinking about “sleeping on the boat,” let me just say: there are long-legged beauties in traditional áo bà ba outfits, ready to serve you from A to Z.
 
 After leaving Ninh Kieu ferry station, we’ll visit the fruit gardens — also for 1 million VND.
-Before we go, don’t eat anything yet — there are all kinds of delicious fruits waiting for you to try, like duku, durian, mangosteen, longan, and more.
+Before we go, don’t eat anything yet — there are all kinds of delicious fruits waiting for you to try, like duku, durian, mangosteen, longan and more.
 
 If you want to see plaswai, head over to the “cầu tỏm” (yes, that’s really the name), where you’ll see them fighting over food like gladiators.
 And if you want to eat those catfish, just wait a moment — the orchard owner will serve them to you right away.
