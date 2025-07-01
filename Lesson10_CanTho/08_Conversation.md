@@ -75,3 +75,87 @@ That’s the spirit! Now hop on the boat, everyone — let’s float into advent
     - **Floating Market** `/ˈfləʊtɪŋ ˈmɑːkɪt/`
     - **Serve you from A to Z** `/sɜːv juː frəm eɪ tuː ziː/`
     - **Throw up your whole family tree** `/θrəʊ ʌp jɔː ˈfæmɪli triː/`
+
+
+⸻
+
+🟩 I. General Comprehension 
+	1.	Where is the first place the group visits on the trip?
+	2.	What is the nickname of Can Tho?
+	3.	Why is Can Tho called “Tay Do”?
+	4.	How much does it cost to rent a boat at Phung Hiep Floating Market?
+	5.	What can you see while sitting in the boat at the floating market?
+	6.	How are vendors different at the floating market compared to regular markets?
+	7.	What kind of women might serve you at the floating market?
+	8.	Where do they go after visiting the floating market?
+	9.	Why should you not eat before going to the fruit gardens?
+	10.	What fruits are mentioned in the text?
+	11.	What kind of fish can you see at “cầu tỏm”?
+	12.	What happens at “cầu tỏm” that makes it unique?
+	13.	What warning does the speaker give about eating catfish?
+	14.	Who might lend you money if you run out of cash?
+	15.	What are people encouraged to do if they don’t have money?
+
+⸻
+
+🟩 II. Vocabulary & Phrases 
+	16.	What does “floating market” mean?
+	17.	Translate “long-legged beauties” into Vietnamese.
+	18.	What is the meaning of “bargain-basement items”?
+	19.	What does “throw up your whole family tree” humorously mean?
+	20.	What does “serve you from A to Z” imply?
+
+⸻
+
+🟩 III. True or False 
+	21.	___ Phung Hiep Floating Market is a common market found all over Vietnam.
+	22.	___ You can buy fruit at the orchard after you’ve eaten a big meal.
+	23.	___ At the floating market, vendors come to you by boat.
+	24.	___ The speaker discourages people from sleeping on the boat.
+	25.	___ The orchard owner might cook catfish for you.
+
+⸻
+
+🟩 IV. Wh- Questions 
+	26.	What kind of transportation is used to explore the floating market?
+	27.	Who in the group had a hurt leg?
+	28.	Who had a stomachache?
+	29.	What does the speaker suggest doing if someone runs out of gold?
+	30.	Where is the “cầu tỏm” located?
+
+⸻
+
+🟩 V. Yes/No Questions
+	31.	Do vendors row their boats to serve you at Phung Hiep Market?
+	32.	Is 1 million VND enough for both the boat and garden trips?
+	33.	Can you see plaswai fighting over food at the orchard?
+	34.	Does the speaker recommend eating before the fruit garden visit?
+	35.	Are people allowed to buy things while sitting in the boat?
+
+⸻
+
+🟩 VI. Grammar Focus 
+	36.	Find one sentence with the modal verb “will”.
+	37.	Which sentence in the text uses the future continuous tense?
+	38.	Identify an imperative sentence from the passage.
+	39.	What tense is used in: “If someone’s run out of cash…”?
+	40.	What does “let me just say” function as in the sentence?
+
+⸻
+
+🟩 VII. Writing Practice 
+	41.	Write 3 sentences describing what you can do at Phung Hiep Market.
+	42.	Write 2 sentences about what fruits you would like to try in Can Tho.
+	43.	What would you say if your friend had no money on the trip?
+	44.	Describe the experience of seeing the catfish at “cầu tỏm”.
+	45.	Imagine you’re on the boat. Describe what you see and hear.
+
+⸻
+
+🟩 VIII. Opinion/Creative 
+	46.	Would you like to visit Can Tho? Why or why not?
+	47.	Do you think floating markets are better than supermarkets?
+	48.	What fruit mentioned in the passage do you like most?
+	49.	What would you do if a vendor served you something strange?
+	50.	How do you feel about the humorous tone used in the description?
+
