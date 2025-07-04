@@ -1,0 +1,6 @@
+Hiện nay dân số thể giới là 7 tỷ rưỡi và họ sống ở khắp nơi trên Trái đất. Họ sống ở trên băng tuyết của các cực và trong các cánh rừng rậm nhiệt đới trên được xích đạo. Họ đã từng leo lên các ngọn núi cao, đi dưới đáy biển và thậm chí một số người trong số họ đã rời Trái đất đến thăm Mặt trăng.
+Loài người là loài động vật đông nhất và mạnh mẽ nhất trên Trái đất.
+Loài thú có thể làm những điều tốt hơn chúng ta. Những con chó có thể ngửi và nghe tốt hơn chúng ta. Các con mèo có thể nhìn thấy trong đêm tối. Loài chim có thể bay hàng ngàn dặm và trở về đúng điểm xuất phát vào hằng năm.
+Nhưng chúng ta thì khác. Không có loài thú nào xây nhà thờ, chơi bóng đá, kể chuyện tiếu lâm, kết hôn, có nhà tù, ban nhạc, bầu cử tổng thống hoặc đi trên Mặt trăng
+Có một điều mà nó làm cho chúng ta và loài thú khác biệt. Chúng ta thích nói, nói và nói Chúng ta là những nhà giao tiếp đại tài. Chúng ta có thể giao tiếp bằng nhiều cách: Bằng gương mặt của chúng ta, bằng tay, bằng cơ thể và bằng giọng nói. Điều quan trọng nhất là chúng ta có thể ghi âm những gì chúng ta nói và viết lại những gì chúng ta nghĩ. Chúng ta có thể giao tiếp xuyên không gian và thời gian. Chúng ta có linh cảm quá khứ, ở tương lai không chỉ ở hiện tại.
+Chúng ta là loài duy nhất có thể thay đổi cả thế giới. Chúng ta là loài duy nhất có thể chọn lựa: hoặc chăm sóc thế giới hoặc hủy diệt nó.
