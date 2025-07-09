@@ -23,6 +23,9 @@ Analysis
 
 ✔️ They have climbed high mountains, walked on the sea bed, and even left the Earth to visit the Moon.
 → Dùng đúng cấu trúc song song và động từ nguyên mẫu.
+Nếu dùng cấu trúc hiện tại hoàn thành cho toàn bộ câu thì nó sẽ mang ý nghĩa liệt kê tất cả các hành động như leo lên núi cao, đi dưới biển, rời Trái Đất và đến Mặt Trăng. Câu sửa lại như sau:
+✔️ They have climbed high mountains, have walked on the sea bed, and have even left the Earth and visited the Moon.
+Nếu viết như vậy thì ý rời Trái đất không còn bổ nghĩa và liên quan gì đến việc đến Mặt trăng.
 
 ⸻
 
@@ -110,3 +113,5 @@ But we are different. No animal builds churches, plays football, tells jokes, ge
 There is one thing that sets us apart from animals: we love to talk, talk, and talk. We are master communicators. We can communicate in many ways—with our facial expressions, our hands, our bodies, and our voices. Most importantly, we can record what we say and write down what we think. We can communicate through space and time. We have a sense of the past and of the future—not just the present.
 
 We are the only species capable of changing the entire world. We are the only species that can choose: either to take care of the world or to destroy it.
+
+

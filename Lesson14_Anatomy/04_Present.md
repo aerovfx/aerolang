@@ -1,0 +1,11 @@
+Human anatomy 
+
+Human anatomy is the scientific study of the structure of the human body, from basic parts such as the head, arms, and legs to systems like the skeleton, nervous system, and blood vessels. Understanding the structure of each part—such as the arms, hands, fingers, legs, and feet—helps explain their functional roles in movement, including actions like walking, grasping, balancing, and coordination between body systems.
+
+In modern medicine, anatomy forms the foundation of all clinical specialties. Doctors must clearly understand the location of organs, nerves, and blood vessels in order to diagnose, treat, and perform surgeries safely. Techniques such as endoscopy, MRI, or robotic surgery rely on precise anatomical knowledge to intervene effectively and with minimal invasiveness. Especially for motor-related parts like the upper and lower limbs, anatomy is essential in rehabilitation, orthopedics, and trauma care.
+
+In visual arts, anatomical knowledge enables painters, sculptors, and character designers to understand human proportions, muscle distribution, and realistic movement. Classical artworks from the Renaissance to the present reflect deep knowledge of the human form, expressed through lifelike poses and authentic emotions.
+
+In traditional Eastern medicine, although the body is not dissected as in Western practice, there exists a well-developed theoretical system describing the functions of organs, blood flow, and energy channels (meridians). Acupuncture is a specific application of anatomy from the Eastern perspective. Acupoints are distributed across the body, especially concentrated in areas such as the head, arms, legs, soles of the feet, back, and chest. For instance, the Hegu point, located between the thumb and index finger, is used to treat headaches and fevers; the Zusanli point, below the knee, boosts digestion and immunity; and the Neiguan point, on the forearm, calms the mind and relieves nausea. Although the theories differ, modern research has shown that many acupoints correspond to intersections of nerves and blood vessels, suggesting a connection between Eastern medicine and anatomical science.
+
+Human anatomy is a key to unlocking deep understanding of the body, serving healing, artistic creation, and health preservation in both modern and traditional approaches.
