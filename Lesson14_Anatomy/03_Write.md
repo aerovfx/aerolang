@@ -1,0 +1,10 @@
+Giải phẫu người
+Giải phẫu người là ngành khoa học nghiên cứu cấu trúc cơ thể, từ những phần cơ bản như đầu, tay, chân đến hệ cơ xương, thần kinh và mạch máu. Việc hiểu rõ cấu tạo của từng bộ phận như cánh tay, bàn tay, ngón tay, chân và bàn chân giúp con người lý giải được các chức năng vận động như cử động, đi lại, cầm nắm, giữ thăng bằng và phối hợp giữa các hệ cơ quan.
+
+Trong y học hiện đại, giải phẫu là nền tảng của mọi chuyên ngành lâm sàng. Bác sĩ cần nắm vững vị trí cơ quan, dây thần kinh, mạch máu để chẩn đoán, điều trị và phẫu thuật an toàn. Các kỹ thuật như nội soi, chụp cộng hưởng từ (MRI), hay phẫu thuật robot đều dựa trên kiến thức giải phẫu chính xác để can thiệp hiệu quả và ít xâm lấn. Đặc biệt, với những bộ phận vận động như chi trên và chi dưới, giải phẫu giúp bác sĩ phục hồi chức năng, chỉnh hình và điều trị các tổn thương sau tai nạn.
+
+Trong nghệ thuật tạo hình, kiến thức giải phẫu giúp họa sĩ, nhà điêu khắc và nhà thiết kế nhân vật nắm được tỉ lệ cơ thể, sự phân bố cơ bắp và chuyển động thực tế. Những tác phẩm hội họa và điêu khắc cổ điển từ thời Phục hưng đến nay đều phản ánh sự hiểu biết sâu sắc về hình thể con người, thể hiện qua các tư thế sống động và cảm xúc chân thực.
+
+Trong Đông y, tuy không giải phẫu cơ thể theo kiểu phương Tây, nhưng vẫn có hệ thống lý luận chặt chẽ về hoạt động của tạng phủ, khí huyết và kinh lạc. Châm cứu là một ứng dụng cụ thể của giải phẫu theo quan điểm Đông phương. Các huyệt đạo phân bố dọc theo cơ thể, đặc biệt tập trung ở những vùng như đầu, tay, chân, lòng bàn chân, lưng và ngực. Ví dụ, huyệt Hợp Cốc nằm giữa ngón cái và ngón trỏ giúp điều trị đau đầu, cảm sốt; huyệt Túc Tam Lý dưới đầu gối giúp tăng cường tiêu hóa và sức đề kháng; huyệt Nội Quan trên cổ tay giúp an thần, chống nôn. Dù lý thuyết khác biệt, nhưng nhiều nghiên cứu hiện đại cho thấy các huyệt thường trùng với các điểm giao nhau của dây thần kinh và mạch máu, chứng tỏ có sự liên kết nhất định giữa Đông y và giải phẫu học.
+
+Giải phẫu người là chiếc chìa khóa để mở ra hiểu biết sâu sắc về cơ thể, phục vụ cho việc chữa bệnh, sáng tạo nghệ thuật và gìn giữ sức khỏe theo cả hướng hiện đại lẫn cổ truyền.

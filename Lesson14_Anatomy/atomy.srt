@@ -1,0 +1,107 @@
+1
+00:00:00,000 --> 00:00:05,000
+Human anatomy is the scientific study of the structure of the human body,
+
+2
+00:00:05,000 --> 00:00:09,000
+from basic parts such as the head, arms, and legs to systems like the skeleton, nervous system, and blood vessels.
+
+3
+00:00:09,000 --> 00:00:14,000
+Understanding the structure of each part—such as the arms, hands, fingers, legs, and feet—
+
+4
+00:00:14,000 --> 00:00:18,000
+helps explain their functional roles in movement, including walking, grasping, balancing, and coordination.
+
+5
+00:00:18,000 --> 00:00:22,000
+In modern medicine, anatomy forms the foundation of all clinical specialties.
+
+6
+00:00:22,000 --> 00:00:26,000
+Doctors must clearly understand the location of organs, nerves, and blood vessels
+
+7
+00:00:26,000 --> 00:00:30,000
+in order to diagnose, treat, and perform surgeries safely.
+
+8
+00:00:30,000 --> 00:00:34,000
+Techniques such as endoscopy, MRI, or robotic surgery
+
+9
+00:00:34,000 --> 00:00:38,000
+rely on precise anatomical knowledge to intervene effectively and with minimal invasiveness.
+
+10
+00:00:38,000 --> 00:00:42,000
+Especially for motor-related parts like the upper and lower limbs,
+
+11
+00:00:42,000 --> 00:00:46,000
+anatomy is essential in rehabilitation, orthopedics, and trauma care.
+
+12
+00:00:46,000 --> 00:00:50,000
+In visual arts, anatomical knowledge enables painters, sculptors, and character designers
+
+13
+00:00:50,000 --> 00:00:55,000
+to understand human proportions, muscle distribution, and realistic movement.
+
+14
+00:00:55,000 --> 00:01:00,000
+Classical artworks from the Renaissance to the present reflect deep knowledge of the human form,
+
+15
+00:01:00,000 --> 00:01:04,000
+expressed through lifelike poses and authentic emotions.
+
+16
+00:01:04,000 --> 00:01:08,000
+In traditional Eastern medicine, although the body is not dissected as in Western practice,
+
+17
+00:01:08,000 --> 00:01:12,000
+there exists a well-developed theoretical system describing the functions of organs, blood flow, and energy channels.
+
+18
+00:01:12,000 --> 00:01:16,000
+Acupuncture is a specific application of anatomy from the Eastern perspective.
+
+19
+00:01:16,000 --> 00:01:20,000
+Acupoints are distributed across the body, especially in the head, arms, legs, feet, back, and chest.
+
+20
+00:01:20,000 --> 00:01:24,000
+For instance, the Hegu point, located between the thumb and index finger,
+
+21
+00:01:24,000 --> 00:01:27,000
+is used to treat headaches and fevers.
+
+22
+00:01:27,000 --> 00:01:31,000
+The Zusanli point, below the knee, boosts digestion and immunity;
+
+23
+00:01:31,000 --> 00:01:35,000
+and the Neiguan point, on the forearm, calms the mind and relieves nausea.
+
+24
+00:01:35,000 --> 00:01:39,000
+Although the theories differ, modern research shows many acupoints correspond to nerve and blood vessel intersections,
+
+25
+00:01:39,000 --> 00:01:43,000
+suggesting a connection between Eastern medicine and anatomical science.
+
+26
+00:01:43,000 --> 00:01:48,000
+Human anatomy is a key to unlocking deep understanding of the body,
+
+27
+00:01:48,000 --> 00:01:52,000
+serving healing, artistic creation, and health preservation in both modern and traditional approaches.
