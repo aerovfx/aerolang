@@ -1,51 +1,54 @@
 ```mermaid
 mindmap
-  root((Humans on Earth))
+  root((Phước Bửu - Letter of Love & Tet Spirit))
+  
+    Introduction
+      My dearest love
+      Questions about his well-being
+      Expresses longing
 
-    Population
-      7.5 billion people
-      Live all over the Earth
-        Icy poles
-        Tropical rainforests
-        High mountains
-        Sea bed
-        Moon
+    Personal Update
+      Family is doing fine
+      Frequent mention of him
+      Inner sadness and missing him
 
-    Humans vs. Animals
-      Humans
-        Most numerous species
-        Most powerful species
-      Animals
-        Dogs: better smell and hearing
-        Cats: see in the dark
-        Birds: long-distance flight, return yearly
+    Tet Introduction
+      Tet is coming in 25 days
+      Different from Western New Year
+      Same as Chinese Lunar New Year
+      Date: Jan 25, 2020 - Year of the Rat
 
-    Human Uniqueness
-      Activities animals don't do
-        Build churches
-        Play football
-        Tell jokes
-        Get married
-        Create prisons and bands
-        Hold elections
-        Walk on the Moon
+    Tet in Vietnam
+      Family gathering
+        Busy preparations
+        Everyone returns home
+      Tasks by family members
+        Father decorates house & garden
+        Mother makes bánh chưng
+        I go shopping
+        Siblings clean house
+      Family bonding
+        Gather around fire
+        Share stories
+        Watch bánh chưng pot
+        Celebrate midnight moment
 
-    Communication
-      Master communicators
-      Use:
-        Facial expressions
-        Hands
-        Body language
-        Voice
-      Abilities:
-        Record speech
-        Write thoughts
-        Communicate across time and space
-        Understand past, present, and future
+    Emotional Reflection
+      Everyone is happy, except me
+      Deep pain and longing
+      Missing "you"
+      Love brings joy & sorrow
+      Fear of losing you
 
-    Human Impact
-      Capable of changing the world
-      Can choose to:
-        Take care of the Earth
-        Destroy the Earth
+    Closing
+      Wish you were here this Tet
+      Intense emotions
+      Must stop writing
+      Midnight time
+      Sends regards to his family
+      Ends with love
+      
+    Signature
+      Your little sweetheart
+      Ánh Tuyết
 ```
