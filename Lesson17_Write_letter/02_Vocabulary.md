@@ -1,27 +1,24 @@
-#  Humans and Communication – Vocabulary
+Vocabulary from Phuoc Buu Letter (Tet Love)
 
-| Vietnamese Term                        | English Term                          | Pronunciation (IPA)           | Notes / Meaning                                                                 |
-|----------------------------------------|---------------------------------------|-------------------------------|----------------------------------------------------------------------------------|
-| Dân số thế giới                        | world population                      | /wɜːrld ˌpɑː.pjəˈleɪ.ʃən/     | Tổng số người sống trên Trái Đất                                                |
-| Vùng cực                               | poles                                 | /poʊlz/                        | Khu vực Bắc Cực và Nam Cực                                                       |
-| Rừng mưa nhiệt đới                     | tropical rainforests                  | /ˈtrɑː.pɪ.kəl ˈreɪn.fɔːr.ɪst/  | Khu rừng ẩm ướt, có khí hậu nóng, ẩm                                             |
-| Dãy núi cao                            | high mountains                        | /haɪ ˈmaʊn.tənz/               | Những ngọn núi cao                                                               |
-| Đáy biển                               | sea bed                               | /siː bɛd/                      | Bề mặt dưới của đại dương                                                        |
-| Mặt Trăng                              | the Moon                              | /ðə muːn/                      | Vệ tinh tự nhiên của Trái Đất                                                    |
-| Loài người                             | humans                                | /ˈhjuː.mənz/                   | Homo sapiens, loài người hiện đại                                               |
-| Loài động vật                          | species                               | /ˈspiː.ʃiːz/                   | Loài sinh học                                                                    |
-| Khứu giác                              | sense of smell                        | /sɛns əv smɛl/                 | Khả năng ngửi                                                                   |
-| Thính giác                             | sense of hearing                      | /sɛns əv ˈhɪə.rɪŋ/             | Khả năng nghe                                                                   |
-| Thị lực trong bóng tối                 | see in the dark                       | /siː ɪn ðə dɑːrk/              | Nhìn thấy trong bóng tối                                                        |
-| Di cư theo mùa                        | migrate (long distances)              | /ˈmaɪ.ɡreɪt/                   | Di chuyển xa theo mùa, như chim di cư                                            |
-| Giao tiếp                              | communication                         | /kəˌmjuː.nəˈkeɪ.ʃən/          | Trao đổi thông tin, suy nghĩ, cảm xúc                                           |
-| Người truyền đạt giỏi                  | master communicators                  | /ˈmæs.tɚ kəˈmjuː.nə.keɪ.t̬ɚz/  | Người giỏi truyền đạt, giao tiếp                                                |
-| Ngôn ngữ cơ thể                        | body language                         | /ˈbɑː.di ˌlæŋ.ɡwɪdʒ/           | Giao tiếp bằng cử chỉ và hành động                                              |
-| Nét mặt                                | facial expressions                    | /ˈfeɪ.ʃəl ɪkˈspreʃ.ənz/        | Biểu cảm khuôn mặt                                                              |
-| Ghi lại lời nói                        | record speech                         | /rɪˈkɔːrd spiːtʃ/              | Lưu trữ hoặc ghi âm những gì được nói                                           |
-| Viết ra suy nghĩ                      | write down thoughts                   | /raɪt daʊn θɔːts/              | Diễn đạt suy nghĩ thành văn bản                                                  |
-| Thời gian và không gian               | space and time                        | /speɪs ənd taɪm/                | Hai khái niệm con người có thể vượt qua nhờ ngôn ngữ và trí tuệ                 |
-| Quá khứ – hiện tại – tương lai        | past – present – future               | /pæst/, /ˈprez.ənt/, /ˈfjuː.tʃɚ/| Ba chiều thời gian mà con người có ý thức rõ ràng                               |
-| Phá hủy hành tinh                      | destroy the world                     | /dɪˈstrɔɪ ðə wɝːld/            | Làm hư hại hoặc tiêu diệt Trái Đất                                               |
-| Bảo vệ Trái Đất                        | take care of the world                | /teɪk ker əv ðə wɝːld/         | Hành động giữ gìn, bảo vệ môi trường sống chung                                 |
+Vietnamese Term	English Term	Pronunciation (IPA)	Notes / Meaning
+Người yêu dấu	my dearest love	/maɪ ˈdɪə.rɪst lʌv/	Cách gọi trìu mến, tình cảm dành cho người yêu
+Gia đình của anh/em	your family	/jʊr ˈfæm.əl.i/	Những người thân trong gia đình của người nhận thư
+Nhớ tên em	whisper my name	/ˈwɪs.pɚ maɪ neɪm/	Nói tên người yêu một cách nhẹ nhàng, trong tâm tưởng
+Tết Nguyên Đán	Lunar New Year	/ˈluː.nɚ ˈnjuː.jɪr/	Tết theo âm lịch, ngày lễ truyền thống lớn nhất của người Việt
+Khác biệt	different	/ˈdɪf.ɚ.ənt/	Không giống nhau, mang nghĩa tương phản
+Lịch Dương	solar calendar	/ˈsoʊ.lɚ ˈkæl.ən.dɚ/	Lịch theo chu kỳ Mặt Trời, phổ biến ở phương Tây
+Lịch Âm	lunar calendar	/ˈluː.nɚ ˈkæl.ən.dɚ/	Lịch dựa trên chu kỳ Mặt Trăng
+Dọn dẹp	clean the house	/kliːn ðə haʊs/	Làm sạch nhà cửa, thường là việc chuẩn bị đón Tết
+Bánh chưng	sticky rice cake (bánh chưng)	/ˈstɪk.i raɪs keɪk/	Bánh truyền thống gói bằng lá dong, nhân đậu và thịt
+Giao thừa	New Year’s Eve	/ˌnjuː ˈjɪrz iːv/	Đêm cuối cùng của năm cũ, trước giờ phút chuyển giao sang năm mới
+Ngồi quây quần	gather around	/ˈɡæð.ɚ əˈraʊnd/	Cùng nhau ngồi lại, tạo không khí gia đình thân mật
+Kể chuyện	share stories	/ʃer ˈstɔːr.iz/	Nói về những điều đã xảy ra trong quá khứ hoặc hiện tại
+Không khí ấm cúng	warm and cozy atmosphere	/wɔːrm ənd ˈkoʊ.zi ˈæt.mə.sfɪr/	Không gian ấm áp, thân thuộc
+Nỗi đau âm thầm	quiet pain	/ˈkwaɪ.ət peɪn/	Nỗi đau không thể nói thành lời
+Khao khát mạnh mẽ	intense longing	/ɪnˈtens ˈlɔː.ɪŋ/	Mong muốn mãnh liệt và sâu sắc
+Yêu anh/em	loving you	/ˈlʌv.ɪŋ juː/	Thể hiện tình yêu dành cho ai đó
+Sợ mất nhau	fear losing you	/fɪr ˈluː.zɪŋ juː/	Lo lắng không còn được ở bên người mình yêu
+Lời chào cuối thư	lots of love	/lɑːts əv lʌv/	Cụm từ thể hiện tình cảm trìu mến trước khi kết thúc thư
+Người yêu nhỏ bé	your little sweetheart	/jʊr ˈlɪt̬.əl ˈswiːt.hɑːrt/	Cách gọi yêu thương, dịu dàng và thân mật
+
 

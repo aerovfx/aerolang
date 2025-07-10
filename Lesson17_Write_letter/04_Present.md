@@ -1,4 +1,4 @@
-Phuoc Buu Town, October 11th, 2025
+Phuoc Buu Town, October 11th, 2019
 
 My dearest love,
 
@@ -33,3 +33,80 @@ Loving you so much. Kissing you.
 Your little sweetheart,
 Anh Tuyet
 
+
+Bản dịch tiếng Trung Giản thể kèm phiên âm tiếng Việt (pinyin được phiên âm lại sang cách đọc tiếng Việt sát nghĩa để bạn dễ luyện nói):
+
+
+Phước Bửu Town, ngày 11 tháng 10 năm 2019
+
+福北镇，2025年10月11日
+Fú Běi zhèn, èr líng èr wǔ nián shí yuè shí yī rì
+(Phú bẩy trẩn, ơ lính ơ-rủ wú nién sứi duệ sứi i rự)
+
+⸻
+
+Anh yêu quý của em.
+亲爱的你。
+Qīn ài de nǐ.
+(Chin ai tơ nỉ)
+
+Anh và gia đình có khoẻ không?
+你和家人都好吗？
+Nǐ hé jiā rén dōu hǎo ma?
+(Nỉ hứa cha rấn tâu hảo ma?)
+
+Lúc này anh đang làm gì?
+你现在在做什么？
+Nǐ xiàn zài zài zuò shén me?
+(Nỉ xièn dzai dzai chua sấn mơ?)
+
+Hôm nay anh đi làm hay đang ở nhà?
+你今天上班了吗？还是在家？
+Nǐ jīn tiān shàng bān le ma? Hái shì zài jiā?
+(Nỉ chin then sang ban lơ ma? Hái sư dzai cha?)
+
+Có khi nào gọi thầm tên em trong những lúc vui cũng như những lúc buồn?
+你在快乐或难过的时候，是否偷偷叫过我的名字？
+Nǐ zài kuài lè huò nán guò de shí hòu, shì fǒu tōu tōu jiào guò wǒ de míng zì?
+(Nỉ dzai khoai lơ khuô nán cua tợ sứ hậu, sư phẩu thâu thâu chiao cua của tợ míng dzự?)
+
+⸻
+
+Em và gia đình vẫn khoẻ.
+我和家人都很好。
+Wǒ hé jiā rén dōu hěn hǎo.
+(Uổ hứa cha rấn tâu hẩn hảo)
+
+Ba má và mấy đứa em của em vẫn nhắc đến anh luôn.
+爸爸妈妈和弟弟妹妹常常提到你。
+Bà ba mā ma hé dì di mèi mei cháng cháng tí dào nǐ.
+(Ba ba ma ma hứa ti ti mây mây cháng cháng thí đao nỉ)
+
+Tuy nhiên em vẫn buồn bởi vì em… thiếu anh!
+但是我还是很难过，因为我……想你！
+Dàn shì wǒ hái shì hěn nán guò, yīn wèi wǒ… xiǎng nǐ!
+(Đan sư uổ hái sư hẩn nán cua, in uây uổ… xẻng nỉ!)
+
+⸻
+
+Tết cổ truyền của người Việt Nam gần đến rồi, chỉ còn 25 ngày nữa thôi!
+越南的传统春节快到了，只剩下25天了！
+Yuè nán de chuán tǒng chūn jié kuài dào le, zhǐ shèng xià èr shí wǔ tiān le!
+(Duê nán tợ chuán tủng chun chiề khoai đao lơ, chử sâng xia ơ sứ u thiên lơ)
+
+Tết của người Việt Nam khác Tết của người Mỹ.
+越南的春节和美国的不一样。
+Yuè nán de chūn jié hé Měi guó de bù yí yàng.
+(Duê nán tợ chun chiề hứa Mẩy cuố tợ bu í dạng)
+
+Giống như người Trung Quốc, người Việt Nam ăn Tết âm lịch!
+和中国人一样，越南人也过农历年！
+Hé Zhōng guó rén yí yàng, Yuè nán rén yě guò nóng lì nián!
+(Hứa Trung cuố rấn í dạng, Duê nán rấn dể cua nống li nién!)
+
+⸻
+
+Nó nhằm ngày 25-1-2020 (Dương lịch) và nhằm ngày 1-1-Canh Tý (Âm lịch)
+是2020年1月25日（阳历），也是庚子年正月初一（农历）
+Shì èr líng èr líng nián yī yuè èr shí wǔ rì (yáng lì), yě shì gēng zǐ nián zhēng yuè chū yī (nóng lì).
+(Sư ơ lính ơ lính nién i duệ ơ sứ u rự (dáng li), dể sư cân chử nién trâng duệ tru i (nống li))
