@@ -1,0 +1,55 @@
+1
+00:00:01,000 --> 00:00:05,000
+I usually wake up at 5 a.m. I exercise for about 30 minutes.
+
+2
+00:00:05,500 --> 00:00:09,500
+After that, I take a shower and have breakfast.
+
+3
+00:00:10,000 --> 00:00:13,500
+I leave for work at 7 a.m.
+
+4
+00:00:14,000 --> 00:00:19,000
+As my workplace is quite far from home, I usually have lunch at a nearby restaurant.
+
+5
+00:00:19,500 --> 00:00:23,000
+I take a short nap at the office during lunchtime.
+
+6
+00:00:23,500 --> 00:00:27,000
+My workday ends at 5 p.m.
+
+7
+00:00:27,500 --> 00:00:32,000
+In the evening, I often watch TV or read books.
+
+8
+00:00:32,500 --> 00:00:36,000
+Sometimes, I go to the movies or attend a concert with my friends.
+
+9
+00:00:36,500 --> 00:00:41,000
+My mom and younger brother also enjoy watching TV and movies.
+
+10
+00:00:41,500 --> 00:00:46,000
+On evenings when we don’t watch TV, we usually chat in the living room.
+
+11
+00:00:46,500 --> 00:00:49,500
+We go to bed at 11 p.m.
+
+12
+00:00:50,000 --> 00:00:54,000
+On weekends, my whole family is free.
+
+13
+00:00:54,500 --> 00:00:58,500
+We usually go to the beach or go shopping at the supermarket.
+
+14
+00:00:59,000 --> 00:01:03,000
+I really love weekends because I can relax and forget about work.
