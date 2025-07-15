@@ -1,51 +1,39 @@
 ```mermaid
 mindmap
-  root((Humans on Earth))
+  root((Dolphins))
 
-    Population
-      7.5 billion people
-      Live all over the Earth
-        Icy poles
-        Tropical rainforests
-        High mountains
-        Sea bed
-        Moon
+    Origins
+      Fish ❌
+      Mammals ✅
+        Warm-blooded
+        Large brains
+        Live 20–30 years
 
-    Humans vs. Animals
-      Humans
-        Most numerous species
-        Most powerful species
-      Animals
-        Dogs: better smell and hearing
-        Cats: see in the dark
-        Birds: long-distance flight, return yearly
+    Social Behavior
+      Live in groups
+      Communicate
+        Own language
+        Similar to birds & bees
+      Playful with humans
 
-    Human Uniqueness
-      Activities animals don't do
-        Build churches
-        Play football
-        Tell jokes
-        Get married
-        Create prisons and bands
-        Hold elections
-        Walk on the Moon
+    Human Interaction
+      Seem to like humans
+        Thousands of friendship stories
+        Swim near beaches
+        Seek out humans
+      Play with people
 
-    Communication
-      Master communicators
-      Use:
-        Facial expressions
-        Hands
-        Body language
-        Voice
-      Abilities:
-        Record speech
-        Write thoughts
-        Communicate across time and space
-        Understand past, present, and future
+    Threats & Protection
+      Still hunted
+        Some countries
+      Protected
+        Many nations
+        Killing is illegal
 
-    Human Impact
-      Capable of changing the world
-      Can choose to:
-        Take care of the Earth
-        Destroy the Earth
+    Vietnam
+      Cultural Beliefs
+        Dolphins = sacred
+        Bring good luck
+      Fishermen
+        Never harm dolphins/whales
 ```
