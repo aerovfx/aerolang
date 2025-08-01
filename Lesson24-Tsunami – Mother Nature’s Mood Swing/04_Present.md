@@ -1,0 +1,6 @@
+Tsunami – Mother Nature’s Mood Swing
+Tsunamis – just the name sounds like a drama queen with a grudge. Somehow, humans — the only species smart enough to build beachfront villas — act totally shocked when the ocean decides to crash the party. We build our dream homes “with an ocean view,” then scream bloody murder when the ocean takes a peek inside.
+Nature isn’t evil — it just really hates being ignored. Scientists say, “Don’t reclaim land from the sea.” Developers say, “But what about the oceanfront resort?” So one sunny day, the tsunami rolls in — no invitation, no warning (well, technically there was), just a casual, “Sorry folks, I was here before you had deeds.”
+To be fair, tsunamis are polite in their own way. They come with alarms, flashing alerts, and scrolling red warnings. But instead of running, people whip out their phones: “OMG guys look! The water’s rising!” And the next thing you know, their video is part of a rescue team briefing.
+Let’s be real: the tsunami isn’t the villain. It’s just doing its job — reminding us that nature is not some theme park. So if you’re still dreaming of building that 5-star hotel right on the edge of the surf… at least know how to swim.
+Don’t mess with Mother Nature. When she claps back, it’s not gonna be cute.

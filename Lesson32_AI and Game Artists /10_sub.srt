@@ -1,0 +1,104 @@
+1  
+00:00:01,000 --> 00:00:05,000  
+Back in the day, creating game assets was a labor of love — and caffeine.
+
+2  
+00:00:05,100 --> 00:00:09,000  
+From concept art to modeling, texturing, rigging, animation —  
+all handcrafted by people working late into the night.
+
+3  
+00:00:09,100 --> 00:00:14,000  
+Today, a few magic words like:  
+“realistic female warrior, stylized armor, 4K textures, clean topology, rigged for UE5”
+
+4  
+00:00:14,100 --> 00:00:17,000  
+— click, wait a few minutes, and bam —  
+a “brand new” asset pops out.
+
+5  
+00:00:17,100 --> 00:00:21,000  
+Complete with a style suspiciously familiar  
+to hundreds of real-life artists the AI has “learned from.”
+
+6  
+00:00:21,100 --> 00:00:24,000  
+Which begs the question: who taught it?
+
+7  
+00:00:24,100 --> 00:00:28,000  
+Many AI models are trained on artwork scraped from real artists —  
+without consent, credit, or compensation.
+
+8  
+00:00:28,100 --> 00:00:33,000  
+One day you’re browsing ArtStation,  
+and suddenly you see your own signature style…
+
+9  
+00:00:33,100 --> 00:00:36,000  
+Repackaged as “original AI art.”
+
+10  
+00:00:36,100 --> 00:00:39,000  
+The worst part? You can’t sue an algorithm.
+
+11  
+00:00:39,100 --> 00:00:42,000  
+And the AI? It shrugs:  
+“I’m just remixing data, bro.”
+
+12  
+00:00:42,100 --> 00:00:46,000  
+Amid the race to automate pipelines,  
+a lot of studios are turning a blind eye to ethics.
+
+13  
+00:00:46,100 --> 00:00:49,000  
+Where did this AI asset come from?
+
+14  
+00:00:49,100 --> 00:00:51,500  
+Was someone’s work stolen to make it?
+
+15  
+00:00:51,600 --> 00:00:54,500  
+Whose style is being mimicked?
+
+16  
+00:00:54,600 --> 00:00:58,000  
+Is this “efficiency” worth the invisible cost?
+
+17  
+00:00:58,100 --> 00:01:02,000  
+Artists today are forced to both learn AI tools  
+and protect their own identity from being absorbed into them.
+
+18  
+00:01:02,100 --> 00:01:06,000  
+It’s a twisted reality —  
+the real creators are being replaced,
+
+19  
+00:01:06,100 --> 00:01:10,000  
+while plagiarized mashups are celebrated as “innovation.”
+
+20  
+00:01:10,100 --> 00:01:13,000  
+AI can streamline the pipeline —  
+but it shouldn’t erase ethics.
+
+21  
+00:01:13,100 --> 00:01:16,000  
+Art is not just output;  
+it’s ownership, effort, and soul.
+
+22  
+00:01:16,100 --> 00:01:20,000  
+If we forget that,  
+then no matter how beautiful the game looks,
+
+23  
+00:01:20,100 --> 00:01:23,000  
+it’s built on hollow pixels and borrowed credit.
