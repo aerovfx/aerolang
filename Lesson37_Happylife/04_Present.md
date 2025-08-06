@@ -1,5 +1,5 @@
 Happiness is just the state of mind and it usually links with the health.
-Allmost everyone thinks that. Only rich people have happiness because they have a lot of money but poor people are not. But that is not right because many rich people are not happy in their life. Maybe they have no peace in their heart or no enough health to enjoy the life.
+Allmost everyone thinks that: Only rich people have happiness because they have a lot of money but poor people are not. But that is not right because many rich people are not happy in their life. Maybe they have no peace in their heart or no enough health to enjoy the life.
 
 If a poor one becames a litle rich, he wishes be would be richer. His wish is never limited.
 A billionnaire never thinks that his wealth is enough.

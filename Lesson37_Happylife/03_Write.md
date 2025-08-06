@@ -7,5 +7,6 @@ Nếu một người nghèo trở nên khá giả một chút, anh ta sẽ mong 
 Tôi nghĩ rằng ý tưởng về một cuộc sống hạnh phúc là chúng ta nên hài lòng với những gì mình đang có. Nếu chúng ta có một mức thu nhập đủ sống, hãy biết bằng lòng với nó. Ngược lại, nếu chúng ta cứ muốn giàu hơn nữa, thì cuối cùng chúng ta sẽ trở về con số không.
 Người ta nói rằng: Hạnh phúc của bạn sẽ tự nhiên biến mất nếu bạn cứ đi tìm một hạnh phúc lớn hơn.
 
-Tôi hy vọng rằng: Không cần thiết cả hai bạn phải cố gắng đi tìm hạnh phúc. Nó luôn ở xung quanh bạn.
+Tôi hy vọng rằng: Cả hai bạn không cần thiết phải cố gắng đi tìm hạnh phúc. Nó luôn ở xung quanh các bạn.
+
 
