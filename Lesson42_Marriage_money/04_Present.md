@@ -12,3 +12,4 @@ The same thing happens in love and marriage. A man with lots of money tends to a
 In married life, happiness often falls apart because of money. People don’t know how to appreciate the happiness they already have. They argue constantly, even fight, and eventually get divorced.
 
 All because of money.
+o
