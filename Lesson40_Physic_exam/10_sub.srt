@@ -1,75 +1,105 @@
 1
-00:00:00,000 --> 00:00:02,500
-Topic: When Physics Stops Being Just Formulas
+00:00:00,000 --> 00:00:04,000
+When Physics is no longer… just formulas.
 
 2
-00:00:02,501 --> 00:00:04,500
-Hello everyone.
+00:00:04,000 --> 00:00:07,500
+Hello, everyone.
 
 3
-00:00:04,501 --> 00:00:09,000
-If you’ve ever thought physics was just dry equations and lifeless numbers — the 2025 national exam might surprise you.
+00:00:07,500 --> 00:00:12,500
+If I told you… this year’s Physics exam would surprise you,
+would you believe me?
 
 4
-00:00:09,001 --> 00:00:11,500
-Because this year, Physics told a story.
+00:00:12,500 --> 00:00:16,500
+Because in 2025, Physics has changed.
 
 5
-00:00:11,501 --> 00:00:14,000
-A story about a piece of iron inside a magnetic field.
+00:00:16,500 --> 00:00:20,500
+It has learned… to tell stories.
 
 6
-00:00:14,001 --> 00:00:17,000
-A story about a light bulb that glows not just because of Ohm’s Law — but because someone believed it would.
+00:00:20,500 --> 00:00:25,500
+A story about an iron core lying still in a magnetic field.
 
 7
-00:00:17,001 --> 00:00:20,500
-For the first time, the exam included scenario-based questions.
+00:00:25,500 --> 00:00:30,500
+A story about a light bulb that shines… not because of Ohm’s law,
+but because of belief.
 
 8
-00:00:20,501 --> 00:00:24,000
-Not just testing how many formulas you memorized — but how deeply you understand the world.
+00:00:30,500 --> 00:00:36,000
+For the first time… the exam doesn’t just ask how many formulas you can remember.
 
 9
-00:00:24,001 --> 00:00:27,000
-Instead of isolated facts, you were given real-world experiments to follow.
+00:00:36,000 --> 00:00:39,500
+It asks:
+How much do you truly understand?
 
 10
-00:00:27,001 --> 00:00:28,500
-No more guessing answers.
+00:00:39,500 --> 00:00:45,000
+Can you follow a phenomenon,
+analyze the clues,
+and explain it… like a scientist?
 
 11
-00:00:28,501 --> 00:00:31,500
-You had to observe, reason, and sometimes… fail, then figure it out again.
+00:00:45,000 --> 00:00:50,000
+But there’s more.
+Physics doesn’t stand alone.
 
 12
-00:00:31,501 --> 00:00:34,000
-This wasn’t physics on paper anymore.
+00:00:50,000 --> 00:00:54,500
+It shakes hands with Chemistry,
+nods to Biology,
+and smiles at Math… and Technology.
 
 13
-00:00:34,001 --> 00:00:35,500
-It was physics in action.
+00:00:54,500 --> 00:01:00,000
+You have to connect.
+You have to see the bigger picture.
 
 14
-00:00:35,501 --> 00:00:38,500
-And you didn’t have to be Einstein.
+00:01:00,000 --> 00:01:05,000
+You have to solve a question… that you’d never answer
+if you treated each subject in isolation.
 
 15
-00:00:38,501 --> 00:00:41,500
-You just had to be curious enough to ask, “What’s happening here?”
+00:01:05,000 --> 00:01:10,500
+This is no longer Physics on paper.
+This… is Physics in real life.
 
 16
-00:00:41,501 --> 00:00:44,000
-And patient enough to follow the current of your own thoughts.
+00:01:10,500 --> 00:01:14,500
+You don’t have to be Einstein.
 
 17
-00:00:44,001 --> 00:00:47,000
-That’s what the 2025 Physics exam truly tested:
+00:01:14,500 --> 00:01:18,500
+You just need enough curiosity to ask:
+“What’s really going on here?”
 
 18
-00:00:47,001 --> 00:00:48,500
-Not just your memory.
+00:01:18,500 --> 00:01:23,000
+And enough patience to trace…
+the current of your own thinking.
 
 19
-00:00:48,501 --> 00:00:50,500
-But the way you think.
+00:01:23,000 --> 00:01:28,500
+Because this exam…
+doesn’t just test your memory.
+
+20
+00:01:28,500 --> 00:01:32,500
+It tests how you think.
+How you connect ideas.
+How you ask questions.
+
+21
+00:01:32,500 --> 00:01:38,000
+Because in the 21st century…
+what matters is not how many formulas you know.
+
+22
+00:01:38,000 --> 00:01:43,500
+What matters… is whether you can look at a phenomenon,
+hear a story… and decode it.
