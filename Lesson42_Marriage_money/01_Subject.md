@@ -1,51 +1,34 @@
 ```mermaid
 mindmap
-  root((Humans on Earth))
+  root((Money & Marriage))
 
-    Population
-      7.5 billion people
-      Live all over the Earth
-        Icy poles
-        Tropical rainforests
-        High mountains
-        Sea bed
-        Moon
+    Past Life
+      People didn’t rely on money
+      Lived off their own land
+      Sold crops when needed
+      Peaceful life
+        Family dinners
+        Talking about harvest
+        Simple joys
 
-    Humans vs. Animals
-      Humans
-        Most numerous species
-        Most powerful species
-      Animals
-        Dogs: better smell and hearing
-        Cats: see in the dark
-        Birds: long-distance flight, return yearly
+    Modern Society
+      Society advanced
+      Money = measure of worth
+      Rich respected
+      Poor looked down upon
 
-    Human Uniqueness
-      Activities animals don't do
-        Build churches
-        Play football
-        Tell jokes
-        Get married
-        Create prisons and bands
-        Hold elections
-        Walk on the Moon
+    Love & Marriage
+      Rich men attract women
+      Old view: "Talented man deserves beautiful woman"
+      Today: Money more important than talent
 
-    Communication
-      Master communicators
-      Use:
-        Facial expressions
-        Hands
-        Body language
-        Voice
-      Abilities:
-        Record speech
-        Write thoughts
-        Communicate across time and space
-        Understand past, present, and future
+    Married Life
+      Happiness breaks because of money
+      Lack of appreciation
+      Constant arguments
+      Fights and divorce
 
-    Human Impact
-      Capable of changing the world
-      Can choose to:
-        Take care of the Earth
-        Destroy the Earth
+    Conclusion
+      All because of money
+
 ```
