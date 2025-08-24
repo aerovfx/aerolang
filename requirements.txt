@@ -1,0 +1,25 @@
+# 🎬 Video Subtitle Generator - Dependencies
+# Tối ưu cho MacBook Pro M2 với 16GB RAM
+
+# Core dependencies
+torch>=2.0.0
+torchaudio>=2.0.0
+openai-whisper>=20231117
+
+# Progress tracking
+tqdm>=4.65.0
+
+# System monitoring
+psutil>=5.9.0
+
+# GUI (built-in with Python, no need to install)
+# tkinter - included with Python installation
+
+# Optional: For better performance
+# numpy>=1.24.0
+# scipy>=1.10.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
