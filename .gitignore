@@ -1,0 +1,72 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.dylib
+
+# ======================
+# Virtual environment
+# ======================
+.env
+.venv
+env/
+venv/
+ENV/
+whisper_env/
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints
+*.ipynb~
+
+# ======================
+# Logs & Caches
+# ======================
+*.log
+*.out
+*.err
+logs/
+*.pid
+*.gz
+.cache/
+*.DS_Store
+
+# ======================
+# ML / DL Specific
+# ======================
+# PyTorch / TensorFlow checkpoints
+*.pth
+*.pt
+*.ckpt
+*.pb
+
+# Hugging Face models
+*.bin
+*.safetensors
+tokenizer.json
+special_tokens_map.json
+
+# ======================
+# Build / Packaging
+# ======================
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+
+# ======================
+# IDE & OS files
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
